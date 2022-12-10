@@ -1,0 +1,12 @@
+; -------------------------------
+;  Copyright (c) 2022-2023  HARXI |
+;  * This library use MIT license |
+; -------------------------------
+
+push "Hello, World"
+send {
+    pop chr
+    int 1
+}
+jmp send
+goto 2, 11
