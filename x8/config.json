@@ -1,4 +1,4 @@
 {
-    "main": "main.bex"
+    "main": "main.bex",
     "files": ["test.file"]
 }
