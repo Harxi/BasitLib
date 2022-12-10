@@ -1,8 +1,5 @@
-; INCLUDING: test.file, Lol/Lib;
-; -------------------------------
-;  Copyright (c) 2022-2023  HARXI |
-;  * This library use MIT license |
-; -------------------------------
+;  Copyright (c) 2022-2023  HARXI
+;  * This library use MIT license
 
 push "Hello, World"
 send {
